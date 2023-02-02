@@ -1,2 +1,1 @@
-My first readme
-maverickOA
+My first readme maverickOA
